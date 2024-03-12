@@ -53,11 +53,7 @@ The first neural network model showed a 100% accuracy from the training data and
 
 [4] Sagar, Abhinav. VIT Vellor. "5 Techniques to Prevent Overfitting in Neural Networks", 2019. Neural Networks, Overfitting. 3/10/2024.<br/> https://www.kdnuggets.com/2019/12/5-techniques-prevent-overfitting-neural-networks.html
 
-[5]
-
-
-
-
+[5] Zhang B, Shi H, Wang H. Machine Learning and AI in Cancer Prognosis, Prediction, and Treatment Selection: A Critical Approach. J Multidiscip Healthc. 2023 Jun 26;16:1779-1791. doi: 10.2147/JMDH.S410301. PMID: 37398894; PMCID: PMC10312208.
 
 [6] Spanhol, F., Oliveira, L. S., Petitjean, C., Heutte, L., A Dataset for Breast Cancer Histopathological Image Classification, IEEE Transactions on Biomedical Engineering (TBME), 63(7):1455-1462, 2016<br/>
 https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
