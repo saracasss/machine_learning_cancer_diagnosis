@@ -2,7 +2,7 @@
 #### Group members: Sara Cass, Fae Matin, Susan Miyengi, and Naomi Baxter
 
 ### Introduction
-Cancer, colloquially known as "The Big-C," has long been a negative, life-altering adversary that transends generations, predating modern medicine. This disease's prevalance has been on the rise since the 20th century due to several factors, such as changes in lifestyle and increased life expectancy. However, during the early 21st century, cancer treatment and diagnostic methods involving the use of AI and machine learning began to rapidly advance. These advances offered hope for an improved quality of life and health outcome for many afflicted by the detrimental ailment. Machine learning is a powerful tool that can be used - and is actively being implemented - in many different diagnostic applications; two of which will be explored in this project.
+Cancer, colloquially known as "The Big-C," has long been a negative, life-altering adversary that transends generations and predates modern medicine. This disease's prevalance has been on the rise since the 20th century due to several factors, such as changes in lifestyle and increased life expectancy. However, during the early 21st century, cancer treatment and diagnostic methods involving the use of AI and machine learning began to rapidly advance. These advances offered hope for an improved quality of life and health outcome for many afflicted by the detrimental ailment. Machine learning is a powerful tool that can be used - and is actively being implemented - in many different diagnostic applications; two of which will be explored in this project.
 
 
 ##### Purpose
