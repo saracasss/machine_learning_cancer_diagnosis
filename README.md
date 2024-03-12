@@ -1,5 +1,5 @@
 # machine_learning_cancer_diagnosis
-#### Group members: Sara Cass, Fae Martin, Susan Miyengi, and Naomi Baxter
+#### Group members: Sara Cass, Fae Matin, Susan Miyengi, and Naomi Baxter
 
 ### Introduction
 The big-C has been dramatically altering the lives of people since long before modern medicine. Cancer has been on the rise since the 20th century due to several factors such as changes in lifestyle and life expectancy. But cancer treatment and diagnostic methods have also been rapidly changing and improving the quality of life and health outcomes for people affected by cancer. Machine learning is a powerful tool that can be used in many different diagnostic applications, two of which will be explored in this project.
