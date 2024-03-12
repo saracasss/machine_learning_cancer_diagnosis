@@ -6,11 +6,12 @@ Cancer, colloquially known as "The Big-C," has long been a negative, life-alteri
 
 
 ##### Purpose
-This is the final project for the Data Analytics Bootcamp by EdX, taught by Dr. M. Ali Lakhani, and hosted by The University of Oregon (2024). This project explores the uses and benefit of machine learning techniques to build predictive models that have been trained the ability distinguish between "normal"/benign and cancerous tissue samples.<br/>
-The primary focuses of this project: machine learning using gene expression analysis to predict cancer diagnoses in a binary output, and machine learning utilizing image recognition of sample tissue to predict breast cancer, as well as the potential type exhibited.
+In this final project for the Data Analytics Bootcamp by EdX, taught by Dr. M. Ali Lakhani, and hosted by The University of Oregon (2024), we aim to explore the uses and benefit of machine learning techniques used to build predictive models that have been trained for the purpose of distinguishing between "normal"/benign and cancerous tissue samples.<br/>
+The primary focuses of this project: machine learning using gene expression analysis to predict cancer diagnoses in a binary output, and machine learning utilizing image recognition of sample tissue to predict breast cancer.
 
 ##### Data selection
-Our group narrowed our focus to breast cancer. For the gene expression analysis portion of this project, we selected a dataset with 289 samples with a balanced distribution of normal to tumoral samples. 
+Our group began this project knowing that the subject of Cancer would be a monumetal undertaking. With such a harrowing and all-encompassing subject faacing us, we decided to narrow our focus to breast cancer. <br/>
+For the gene expression analysis portion of this project, we selected a dataset with 289 samples with a balanced distribution of normal to tumoral samples. 
 The dataset was sourced from the Curated Microarray Database (CuMiDa) created by the Structural Bioinformatics and Computational Biology Lab (SBCB) [1]. SBCB noticed an initial difficulty in conducting machine learning experiments on microarray datasets, and that was those datasets being spread out across many platforms and repositories across the web. So they sought to compile an easy-to-use, all-in-one database of cancer microarray datasets specifically to be used for further research and education with machine learning methods and analyses.
 
 >>>DATA SELECTION FOR IMAGE CLASSIFICATION
