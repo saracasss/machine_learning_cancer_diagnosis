@@ -2,7 +2,7 @@
 #### Group members: Sara Cass, Fae Matin, Susan Miyengi, and Naomi Baxter
 
 ### Introduction
-Cancer, colloquially known as The Big-C, has been dramatically altering the lives of people since long before modern medicine. Cancer has been on the rise since the 20th century due to several factors such as changes in lifestyle and life expectancy. But cancer treatment and diagnostic methods have also been rapidly changing and improving the quality of life and health outcomes for people affected by cancer. Machine learning is a powerful tool that can be used and is in many different diagnostic applications, two of which will be explored in this project.
+Cancer, colloquially known as The Big-C, has been dramatically altering the lives of people since long before modern medicine. Cancer has been on the rise since the 20th century due to several factors such as changes in lifestyle and life expectancy. But cancer treatment and diagnostic methods have also been rapidly changing and improving the quality of life and health outcomes for people affected by cancer. Machine learning is a powerful tool that can be used and is actively being implemented in many different diagnostic applications; two of which will be explored in this project.
 
 ##### Purpose
 This is the final project for the Data Analytics Bootcamp by EdX, taught by Dr. M. Ali Lakhani, and hosted by The University of Oregon (2024). This project explores the uses and benefit of machine learning techniques to build predictive models that have been trained the ability distinguish between "normal"/benign and cancerous tissue samples.<br/>
