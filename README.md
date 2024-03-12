@@ -11,8 +11,8 @@ The primary focuses of this project: machine learning using gene expression anal
 
 ##### Data selection
 Our group began this project knowing that the subject of Cancer would be a monumetal undertaking. With such a harrowing and all-encompassing subject faacing us, we decided to narrow our focus to breast cancer. <br/>
-For the gene expression analysis portion of this project, we selected a dataset with 289 samples with a balanced distribution of normal to tumoral samples. 
-The dataset was sourced from the Curated Microarray Database (CuMiDa) created by the Structural Bioinformatics and Computational Biology Lab (SBCB) [1]. SBCB noticed an initial difficulty in conducting machine learning experiments on microarray datasets, and that was those datasets being spread out across many platforms and repositories across the web. So they sought to compile an easy-to-use, all-in-one database of cancer microarray datasets specifically to be used for further research and education with machine learning methods and analyses.
+Regarding the gene expression analysis portion of this project, we selected a dataset consisting of 289 samples with a balanced distribution of normal to tumoral samples. 
+The dataset was sourced from the Curated Microarray Database (CuMiDa) created by the Structural Bioinformatics and Computational Biology Lab (SBCB) [1]. SBCB initially encountered challenges conducting their own machine learning experiments on microarray datasets due to dispersion of sourced datasets spanning various platforms and repositories. In turn, SBCB sought to compile an easy-to-use, all-in-one database of cancer microarray datasets intended specifically for further research and education with machine learning methods and analyses.
 
 >>>DATA SELECTION FOR IMAGE CLASSIFICATION
 
