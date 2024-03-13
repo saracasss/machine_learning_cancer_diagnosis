@@ -28,19 +28,16 @@ The dataset was read into the main GoogleColab notebook using Pandas. General in
 - "type" column was converted to numeric values: 0.0 for cancerous tissue, 1.0 for normal tissue
 - The "samples" column was dropped as it was unnecessary and prevented the scaler from working.
 
-Then, the dataset was divided into features (X) and output (y). Scaling was done using Standard Scaler. A Principle Component Analysis was conducted to reduce the very high number of features compared to samples. The number of components was reduced to 119, and the explained variance ratio per component was graphed, as well as the explained variance ratio total, or Scree plot. The threshold was set to 85% of the total variance. Using the PCA data of shape (289, 119), the data was split into training and testing sets. Class distribution of the y-test set was assessed. Then, the initial neural network model was built, trained, and tested. Then, neural network optimization was completed using keras tuner. The best result from the keras tuner was then selected, trained, and tested.
-
->>>Predictive models method
+Then, the dataset was divided into features (X) and output (y). Scaling was done using Standard Scaler. A Principle Component Analysis was conducted to reduce the very high number of features compared to samples. The number of components was reduced to 119, and the explained variance ratio per component was graphed, as well as the explained variance ratio total, or Scree plot. The threshold was set to 85% of the total variance. Using the PCA data of shape (289, 119), the data was split into training and testing sets. Class distribution of the y-test set was assessed. Then, the initial neural network model was built, trained, and tested. Then, neural network optimization was completed using keras tuner. The best result from the Keras tuner was then selected, trained, and tested.
+Then the regression models were prepared into functions and executed. The algorithmic models used  were logistic regression, SVM, KNN, and XGBClassifier. The models were trained using “X_train” and “y_train”. The KNN algorithm provided the k value with the highest accuracy score. All four functions were executed at the end of the notebook, producing the accuracy score, confusion matrix, and classification report for all four models. 
 
 
 >>>##### Part II Image Classification
 
 ### Results
 ##### Part I Gene Expression Analysis
-The first neural network model showed 100% accuracy from the training data and 72% accuracy with the testing data. This implies the model is overfitted to the training data and is too complicated for the dataset. The nn model after optimization using keras tuner showed 82% accuracy, an improvement, but still did not meet the 85% accuracy goal. Because this dataset has so few samples, something as complex as a neural network has a high risk of being overfitted to the trained and not very accurate in practice.
-
->>>Predictive models method
-
+The first neural network model showed 100% accuracy from the training data and 72% accuracy with the testing data. This implies the model is overfitted to the training data and is too complicated for the dataset. The nn model after optimization using the keras tuner showed 82% accuracy, an improvement, but still did not meet the 85% accuracy goal. Because this dataset has so few samples, something as complex as a neural network has a high risk of being overfitted to the trained and not very accurate in practice.
+The results of the four regression models showed logistic regression with 84.95% accuracy, SVC with 82.19% accuracy, KNN with 86.30% accuracy, and XGB Classifier with 82.19% accuracy. This shows that KNN was the best model for this predicting outcome from this dataset. 
 
 >>>##### Part II Image Classification
 
